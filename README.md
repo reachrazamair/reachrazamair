@@ -2,10 +2,6 @@
   <b>Full-Stack Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; Builder of Things That Matter</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/reachrazamair"><img src="https://komarev.com/ghpvc/?username=reachrazamair&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
-</p>
-
 ---
 
 ### About Me
