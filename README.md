@@ -72,7 +72,6 @@ I build full-stack products — from polished web dashboards to AI-powered deskt
 ### Connect
 
 <p>
-  <a href="mailto:reachraza1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mair-ahmed-ai-ml-engineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/reachrazamair"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
