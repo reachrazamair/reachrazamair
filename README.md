@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Raza Mair 👋</h1>
-
 <p align="center">
   <b>Full-Stack Developer &nbsp;·&nbsp; AI/ML Enthusiast &nbsp;·&nbsp; Builder of Things That Matter</b>
 </p>
