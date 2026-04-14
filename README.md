@@ -52,16 +52,7 @@ I build full-stack products — from polished web dashboards to AI-powered deskt
 | **Casper Studios** | CCTV-based loitering detection in restricted zones using multi-object tracking | Python, YOLOv8, ByteTrack, OpenCV |
 | **Altium Parser** | Binary parser for Altium `.SchDoc` schematic files — extracts component metadata to JSON | Python |
 
----
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reachrazamair&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reachrazamair&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</p>
-
----
 
 ### Connect
 
