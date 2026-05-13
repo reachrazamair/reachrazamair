@@ -49,9 +49,6 @@ I build full-stack products — from polished web dashboards to AI-powered deskt
 | **Maestro** | Agent orchestration command center for managing and coordinating AI agents at scale | [runmaestro.ai](https://RunMaestro.ai) |
 | **Nerdpower.us** | Public marketing site for NERD Power built with Next.js, Payload CMS, and Tailwind CSS | [nerdpower.us](http://nerdpower.us) |
 | **Leni** | AI-powered real estate platform frontend with market analytics and tenant management | [leni.co](https://leni.co) |
-| **Leni Agent Backend** | Multi-agent AI backend for LeniQ built on FastAPI and LangGraph orchestrator framework | — |
-| **Bluesky Agentic Platform** | Multi-tenant AI agent platform — upload documents, ask questions, get cited answers. AWS serverless with agent certification, hybrid vector search, and LangGraph orchestration | — |
-| **Bluesky Adapters & Workflows** | Serverless integration platform with 39+ production-ready adapters (Slack, Salesforce, SendGrid, GitHub, Stripe, and more) connecting AI agents to external services via AWS Lambda and Step Functions | — |
 | **Enguard** | Full-stack security platform with REST API, OAuth, WebSockets, and analytics dashboard | [app.enguard.live](https://app.enguard.live) |
 | **NVG Calibration Rig** | A Raspberry Pi 5-powered computer vision system for automated night vision alignment. It features dual-camera real-time processing, a "Zero Reference" split-target calibration method, and live scoring for focus sharpness and vertical optical alignment. | [Live Demo](https://www.loom.com/share/22c4fe38076a49eb9eead93cb142dc3c) |
 
